@@ -1,7 +1,7 @@
 # Stock-Analysis
 Project to explore indicators that help a modelling and reporting buy/sell signal with probability of success from both fundamental and technical analysis.
 
-# Discounted Cash Flow model
+## Discounted Cash Flow model
 
 Notebook: [DCF](https://github.com/StevenC623/CPSC4820---Stock-Analysis/blob/main/Fundamental%20Analysis%20-%20DCF.ipynb)
 
@@ -29,7 +29,9 @@ Operating cash flow
 
 (-) Purchases of equipment or capital expenditures
 
-# Weighted Average Cost of Capital
+## Weighted Average Cost of Capital
+
+Notebook: [WACC](https://github.com/StevenC623/CPSC4820---Stock-Analysis/blob/main/Fundamental%20Analysis%20-%20WACC.ipynb)
 
 The WACC is a firm cost of capital. Is the capital rate that a firm is expected to pay on average to all its security holders. WACC uses cost of debt, cost of equity, capital structure of a firm and tax rate. A company capital structure is important to compute WACC since it uses the blended cost of capital across all sources of capital (i.e. cost of debt and cost of equity).
 
@@ -51,3 +53,15 @@ Ke = Cost of equity
 
 D / D + E = Proportion of debt in firm capital structure
 
+## Technical Analysis
+
+### EMA
+Notebook: [EMA](https://github.com/StevenC623/CPSC4820---Stock-Analysis/blob/main/EMA.ipynb)
+
+The elastic moving average method uses the moving average price and threshold to indicate the trading signals. When the moving average prices are crossed from below, and the general trend of the moving average prices is uprising, the possibility that the stock price is rising, and vice versa.
+
+### RSI
+Notebook: [RSI](https://github.com/StevenC623/CPSC4820---Stock-Analysis/blob/main/RSI.ipynb)
+
+### Fibonacci
+Notebook: [Fibonacci](https://github.com/StevenC623/CPSC4820---Stock-Analysis/blob/main/Fibonacci.ipynb)
