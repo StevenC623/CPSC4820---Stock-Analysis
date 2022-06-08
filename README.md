@@ -1,7 +1,9 @@
-# stock-analysis
-Project to explore indicators that help a modelling and reporting buy signal with probability of success
+# Stock-Analysis
+Project to explore indicators that help a modelling and reporting buy/sell signal with probability of success from both fundamental and technical analysis.
 
 # Discounted Cash Flow model
+
+[DCF]([https://github.com/StevenC623/CPSC-Receipt-Project/blob/main/models/Receipts_Preprocessing_v1_0_3.ipynb](https://github.com/StevenC623/CPSC4820---Stock-Analysis/blob/main/Fundamental%20Analysis%20-%20DCF.ipynb))
 
 Cash is what the firm needs in order to be able to pay bills, taxes, salaries and also to pay back to the company capital providers.
 
